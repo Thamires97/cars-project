@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Build
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de dependências de TypeScript
+*.tsbuildinfo
+
+# Arquivos do Prettier
+*.prettierrc.js
+
+# Arquivos do ambiente de desenvolvimento
+.env
+.env.local
+.env.*.local
+
+# Arquivos de teste do Jest
+coverage/
+
+# Diretórios do sistema operacional (ex: macOS)
+.DS_Store
+Thumbs.db
